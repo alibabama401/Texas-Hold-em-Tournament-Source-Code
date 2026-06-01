@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 德州扑克赛事App源码 | 德州竞技赛|德州撲克賽事App源碼 |德州源码|德州源 | 德州撲克源碼 | 德州俱樂部 |  Texas Hold'em Tournament App Source Code
+# 🏆 德州扑克赛事源码 | 德州竞技赛|德州撲克賽事App源碼 |德州源码|德州源 | 德州撲克源碼 | 德州俱樂部 |  Texas Hold'em Tournament App Source Code
 
 **打门票 · 线下比赛 · 酒店住宿 · 支持TJPT/CPG等国内赛事**
 
