@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this source code as a reference for your own poker game development, please cite it as follows."
+title: "Texas Hold'em Poker Complete Source Code"
+version: 1.0.0
+date-released: 2026-06-12
+type: software
+authors:
+  - name: "alibabama401"
+    email: "ttpoker40@gmail.com"
+    affiliation: "PokerCode Studio"
+repository: "https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code"
+repository-code: "https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code"
+url: "https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code"
+abstract: "A production-ready Texas Hold'em poker complete source code with 8 game modes (Classic, Short Deck, Omaha, Pineapple, AOF, SNG, MTT, Texas Cowboy) and 5 built-in languages (English, Simplified Chinese, Traditional Chinese, Vietnamese, Korean). Includes club system, tournament system, anti-cheat, and real-time voice chat. Successfully operated online."
+keywords:
+  - texas-holdem
+  - poker-source-code
+  - game-server
+  - unity-poker
+  - poker-club
+  - online-poker
+  -德州扑克源码
+  - mã-nguồn-poker
+  - 홀덤-소스
+  - texas-holdem-source-code
+  - poker-platform
+  - club-system
+  - mtt-tournament
+  - unity-poker
+  - cpp-game-server
+license: "Proprietary"
