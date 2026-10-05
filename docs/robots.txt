@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alibabama401.github.io/Texas-Hold-em-Tournament-Source-Code/sitemap.xml
